@@ -1,1 +1,1 @@
-https://github.com/AlanGLinares/single-price/settings/pages
+https://alanglinares.github.io/single-price/
